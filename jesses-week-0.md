@@ -27,7 +27,7 @@
 
 ---
 
-## `GitHub` & `GitHub`
+## `Git` & `GitHub`
 
 * Git repository hosting service, web based graphical interface. Allows programmers to research and edit projects. Provides access control for collaboration. Coordinates work among programmers across the world. Control system for tracking changes in projects files. Allows any level programmer research project information.
 
