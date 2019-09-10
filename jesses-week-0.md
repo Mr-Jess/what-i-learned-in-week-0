@@ -29,7 +29,7 @@ Terminal and BASH is very straight forward. I never worked inside the Terminal, 
 
 ---
 
-`Git` and `GitHub` is a bit confusing to understand at first. During week-0, I created files, inside the `terminal` using `BASH`, then created a repository on `Github`. After I created a project inside `Visual Studio Code`, I followed a add, commit, push to upload my `VSC` project to `GitHub`. *Follow step 7-9 below for more instruction.*
+`Git` and `GitHub` is a bit confusing to understand at first. During week-0, I created files, inside the `terminal` using `BASH`, then created a repository on `Github`. After I created a project inside `Visual Studio Code`, I followed a add, commit, push to upload my `VSC` project to `GitHub`. *Follow step 7-9 below for more instruction.* [`VSC` is a `terminal`]
 
 ## `Git` & `GitHub`
 
