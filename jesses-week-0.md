@@ -2,7 +2,7 @@
 
 ---
 
-* HELLO code _enthusiasts_! My name is Jesse Passeri. Today below, is a list of coding terminology I have learned so far in week 0. Most terms at first seem complicated, but with a little typing time on the computer, programming starts to become clear. This is not a cheat sheet. This is a short record of what i took from these categories below...
+* HELLO code _enthusiasts_! My name is _Jesse Passeri_. Today below is a list of coding terminology learned so far in week 0. Coding terms seem complicated at first, but with a little type time on the computer, programming starts to become clear. This is not a cheat sheet. This is a short record of what I took from these categories below in less than one week...
 
 ---
 
