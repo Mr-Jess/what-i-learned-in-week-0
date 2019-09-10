@@ -8,6 +8,8 @@
 
 ## `Terminal` & `BASH`
 
+Terminal and BASH is very straight forward. I never worked inside the Terminal, but once I created multiple files, I noticed how efficient using terminal and BASH can be. Here below is some terms i learned in week-0...
+
 * This is an typing interface you can enter coding languages to program your computer
 * The `terminal` allows typing commands to be entered, speeding up the work flow process
 * `BASH` is a command interpreter to communicate with the `terminal`
@@ -27,9 +29,11 @@
 
 ---
 
+`Git` and `GitHub` is a bit confusing to understand at first. During week-0, I created files, inside the `terminal` using `BASH`, then created a repository on `Github`. After I created a project inside `Visual Studio Code`, I followed a add, commit, push to upload my `VSC` project to `GitHub`. *Follow step 7-9 below for more instruction.*
+
 ## `Git` & `GitHub`
 
-* Git repository hosting service, web based graphical interface. Allows programmers to research and edit projects. Provides access control for collaboration. Coordinates work among programmers across the world. Control system for tracking changes in projects files. Allows any level programmer research project information.
+* GitHub is a repository hosting service, web based graphical interface. Allows programmers to research and edit projects. Provides access control for collaboration. Coordinates work among programmers across the world. Control system for tracking changes in projects files. Allows any level programmer research project information.
 
 1. Created [`mkdir`] a directory
 2. Changed [`cd`] to that directory
@@ -48,7 +52,7 @@
 
 * Markdown is basic syntax. Created to simplify HTML. Has different symbols that respond like HTML. Used to create beautiful visuals in documents, presentations, notes and emails.
 
-An example of how **markdown** simplifies HTML 
+An example of how **markdown** simplifies HTML
 
 [`#`] is equivalent to [`<h1></h1>`]
 
