@@ -1,8 +1,8 @@
-# `*Jesses Week 0*`
+# *`Jesses Week 0`*
 
 ---
 
-* *HELLO* code _enthusiasts_! My name is Jesse Passeri. Today below, is a list of coding terminology I have learned so far in week 0. Most terms at first seem complicated, but with a little typing time on the computer, programming starts to become clear. This is not a cheat sheet. This is a short record of what i took from these catagories below...
+* HELLO code _enthusiasts_! My name is Jesse Passeri. Today below, is a list of coding terminology I have learned so far in week 0. Most terms at first seem complicated, but with a little typing time on the computer, programming starts to become clear. This is not a cheat sheet. This is a short record of what i took from these categories below...
 
 ---
 
