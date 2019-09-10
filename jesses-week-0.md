@@ -8,7 +8,7 @@
 
 ## `Terminal` & `BASH`
 
-Terminal and BASH is very straight forward. I never worked inside the Terminal, but once I created multiple files, I noticed how efficient using terminal and BASH can be. Here below is some terms i learned in week-0...
+`Terminal` and `BASH` is very straight forward. I never worked inside the `terminal`, but once I created multiple files, I noticed how efficient using `terminal` and `BASH` can be. Here below is some terms I learned in week-0...
 
 * This is an typing interface you can enter coding languages to program your computer
 * The `terminal` allows typing commands to be entered, speeding up the work flow process
