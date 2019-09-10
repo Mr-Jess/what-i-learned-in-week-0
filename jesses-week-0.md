@@ -50,7 +50,7 @@ Terminal and BASH is very straight forward. I never worked inside the Terminal, 
 
 ## `Markdown`
 
-* Markdown is basic syntax. Created to simplify HTML. Has different symbols that respond like HTML. Used to create beautiful visuals in documents, presentations, notes and emails.
+* Markdown is basic syntax. Created to simplify HTML. Has different symbols that respond like HTML. Used to create beautiful visuals in documents, presentations, notes and emails. Markdown has many short cut symbols and below is one example..
 
 An example of how **markdown** simplifies HTML
 
