@@ -48,7 +48,7 @@
 
 * Markdown is basic syntax. Created to simplify HTML. Has different symbols that respond like HTML. Used to create beautiful visuals in documents, presentations, notes and emails.
 
-An exmaple of how **markdown** simplifies HTML 
+An example of how **markdown** simplifies HTML 
 
 [`#`] is equivalent to [`<h1></h1>`]
 
