@@ -1,57 +1,56 @@
-# <span style="color:yellow">Week-0
+# Week-0 What I Have Learned
 
 ---
 
-* <span style="font-size:larger;">HELLO</span> code _enthusiasts_! My name is _Jesse Passeri_. Today below is a list of coding terminology learned so far in week-0. Coding terms seem complicated at first, but with a little type time on the computer, programming starts to become clear. This is not a cheat sheet. This is a short record of what I took from these categories below in less than one week...
+* <span style="font-size:larger;">HELLO</span> programmers! Below is lists of coding terminology and information.
 
 ---
----
 
-## `Terminal`
+## `Terminal` & `BASH`
 
-* This is an actual interface you can type coding language to program a vas amount of apps etc
-* You can enter coding commands such as languages:
-<span style="color:red">**markdown** **HTML** 
+* This is an typing interface you can enter coding languages to program your computer
+* The `terminal` allows typing commands to be entered, speeding up the work flow process
+* `BASH` is a command interpreter to communicate with the `terminal`
+* You can enter coding commands using `BASH`
+* `BASH` is a command language interpreter
+* Some `BASH` commands are: [*directory = folder*]
 
----
----
-
-## `Git`
-
-* Coordinates work among programmers across the world
-* Control system for tracking changes in projects files
-* Allows any level programmer research project information
-
----
----
-
-## `GitHub`
-
-* Git repository hosting service
-* Web based graphical interface
-* Allows programmers to research and possibly edit projects
-* Provides access control for several collaboration features
+1. `ls` - lists all files in directory
+2. `ls -a` - lists all files in directory [-a] shows hidden files
+3. `cd` - changes directory
+4. `pwd` - shows all listed directories you are in use this if lost and need to figure out a *tree* path
+5. `touch` - adds files to current directory creates new empty file
+6. `mkdir` - makes a directory
+7. `rm` - removes files
+8. `cp` - copies files without deletion
+9. `mv` - moves files to chosen place deletes file in old place
 
 ---
+
+## `GitHub` & `GitHub`
+
+* Git repository hosting service, web based graphical interface. Allows programmers to research and edit projects. Provides access control for collaboration. Coordinates work among programmers across the world. Control system for tracking changes in projects files. Allows any level programmer research project information.
+
+1. Created [`mkdir`] a directory
+2. Changed [`cd`] to that directory
+3. File is needed by using [`touch`][.md]
+4. Open file with  [`code .`]
+5. Use command [`git init`]
+6. Add file next use [`git add .`]
+7. Commit file [`git commit -m`]
+    * [`-m`] means message *"add-comment-notes"*
+8. Upload to github `git remote add origin http:...`
+9. Lastly [`git push -u origin master`]
+
 ---
 
 ## `Markdown`
 
-* Basic syntax
-* Created to simplify HTML
-* Has different symbols that respond like HTML
-* Used to create beautiful visuals in documents, presentations, notes and emails
+* Markdown is basic syntax. Created to simplify HTML. Has different symbols that respond like HTML. Used to create beautiful visuals in documents, presentations, notes and emails.
+
+An exmaple of how **markdown** simplifies HTML 
+
+[`#`] is equivalent to [`<h1></h1>`]
 
 ---
 ---
-
-## `BASH`
-
-* Command interpreter
-* Programming language
-* Allows user to connect and interact with computers interface
-* Set of commands to help expedited work output inside terminal
-
----
----
-
