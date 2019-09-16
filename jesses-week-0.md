@@ -1,4 +1,4 @@
-# Week-0 What I Have Learned
+# What I Have Learned in Week-0
 
 ---
 
